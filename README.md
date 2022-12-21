@@ -1,4 +1,4 @@
-
+# Soru 1 
 [22,27,16,2,18,6] -> Insertion Sort
 
 
@@ -8,15 +8,16 @@ daha sonra 2.en küçük elemanı 2. sıraya yerleştiriyoruz [2,6,16,22,18,27],
 4. en küçük elemanın 4. sıraya yerleştiriyoruz [2,6,16,18,22,27] 
 5. ve 6. eleman sıralamaya uyduğu için aynı yerde bırakıyoruz
 
-2.
+# Soru 2
 Big-O gösterimini yazınız.
 
 O(n^2)
 
-3.[2,6,16,18,22,27] Dizi bu şekilde sıralanır. Soruda istenen 18 sayısı dizide ortadadır. Yani average case'dir.
+# Soru 3 
+[2,6,16,18,22,27] Dizi bu şekilde sıralanır. Soruda istenen 18 sayısı dizide ortadadır. Yani average case'dir.
 
 
-4.
+# Soru 4 
 [7,3,5,8,2,9,4,15,6] dizisinin Selection Sort'a göre ilk 4 adımını yazınız.
 
 [2,3,5,8,7,9,4,15,6]
